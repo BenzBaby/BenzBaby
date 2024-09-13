@@ -4,7 +4,6 @@ I'm a Web developer with strong knowledge and experience in creating visually ap
 - 🎓 Education: Master of Computer Applications
 - 📧 Contact: benzbabyofficial@gmail.com
 - 💼 Field: Web Development
-- 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/benz-baby-580384240/) 
@@ -18,5 +17,5 @@ I'm a Web developer with strong knowledge and experience in creating visually ap
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BenzBaby&icon=0&color=0)](https://visitcount.itsvg.in)
-
+# Thank you for visiting
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
