@@ -1,6 +1,10 @@
 # 💫 About Me:
 I'm a Web developer with strong knowledge and experience in creating visually appealing web pages and also experience in backend development.<br>Im a self motivated adaptive person who delves into various aspects of software development, testing and deployment.
 
+- 🎓 Education: Master of Computer Applications
+- 📧 Contact: benzbabyofficial@gmail.com
+- 💼 Field: Web Development
+- 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/benz-baby-580384240/) 
