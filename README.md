@@ -7,6 +7,7 @@ I'm a Web developer with strong knowledge and experience in creating visually ap
 
 ## 🌐 Socials:
 Portfolio:https://benzbaby-rust.vercel.app/
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/benz-baby-580384240/) 
 
 # 💻 Tech Stack:
