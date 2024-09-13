@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Web developmer with strong knowledge and experince in creating visually appealing web pages and backend development.<br>Im a self motivated adaptive person who delves into various aspects of software development, testing and deployment.
+I'm a Web developer with strong knowledge and experince in creating visually appealing web pages and backend development.<br>Im a self motivated adaptive person who delves into various aspects of software development, testing and deployment.
 
 
 ## 🌐 Socials:
