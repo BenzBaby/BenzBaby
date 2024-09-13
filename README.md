@@ -6,6 +6,7 @@ I'm a Web developer with strong knowledge and experience in creating visually ap
 - 💼 Field: Web Development
 
 ## 🌐 Socials:
+Portfolio:https://benzbaby-rust.vercel.app/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/benz-baby-580384240/) 
 
 # 💻 Tech Stack:
@@ -14,9 +15,9 @@ I'm a Web developer with strong knowledge and experience in creating visually ap
 ![](https://github-readme-stats.vercel.app/api?username=BenzBaby&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BenzBaby&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BenzBaby&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-# Thank you for visiting
+# Thank you for visiting🙂
 ---
 [![](https://visitcount.itsvg.in/api?id=BenzBaby&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# Visit My Portfolio
+
